@@ -1,1 +1,1 @@
-# EXP-with-HTML-CSS-JS
+# EXPIREMENTS with HTML, CSS, JS
